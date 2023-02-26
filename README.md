@@ -1,4 +1,4 @@
-# IPL MATCH WINNER PREDICTION PROJECT
+# IPL MATCH WINNER PREDICTION PROJECT 🏏
 
 This project aims to predict the winning probabilities of the playing teams in IPL based on the following inputs :
 1. Batting Team
@@ -21,4 +21,4 @@ Correct Way to Input the Text data :
 
 https://ipl-winner-predictor.simrans22.repl.co/
 
-This website is hosted on replit
+This website is hosted on replit.
