@@ -9,9 +9,10 @@ This project aims to predict the winning probabilities of the playing teams in I
 6. Overs Completed
 7. Wickets Out
 
-Correct Way to Input the data :
+Correct Way to Input the Text data :
 1. Batting Team / Bowling Team - 
-    * Write the Full name of the Team - Chennai Super Kings :white_check_mark: | CSK :x:
-    * Capitalize the first Letter of each word - Chennai Super Kings :white_check_mark: | chennai super kings :x:
+    * Write the Full name of the Team - Kolkata Knight Riders :white_check_mark: || KKR :x: || kkr :x:
+    * Capitalize the first Letter of each word - Kolkata Knight Riders :white_check_mark: || kolkata knight riders :x:
 2. Host City - 
-    * Write the name of the City only and not the venue - 
+    * Write the name of the City only and not the name of the venue/stadium - Kolkata :white_check_mark: || Eden Gardens, Kolkata :x:
+    * Capitalize the first Letter of Host City name - Kolkata :white_check_mark: || kolkata :x:
