@@ -16,21 +16,33 @@ https://ipl-winner-predictor.simrans22.repl.co/
 This website is hosted on replit.
 
 ### NOTE: Correct Way to Input the Text data -
+
+
 1. Batting Team / Bowling Team - 
    * There are only 10 teams in IPL(as of 2023):
-      - Chennai Super Kings
-      - Delhi Capitals
-      - Gujarat Titans
-      - Kolkata Knight Riders
-      - Lucknow Super Giants
-      - Mumbai Indians
-      - Punjab Kings
-      - Rajasthan Royals
-      - Royal Challengers Bangalore         
-      - Sunrisers Hyderabad
-   * Write the Full name of the Team - Kolkata Knight Riders :white_check_mark:  ||  KKR :x:  ||  kkr :x:
-   * Capitalize the first Letter of each word - Kolkata Knight Riders :white_check_mark:  ||  kolkata Knight riders :x:  ||  kolkata knight riders :x:
-2. Host City -
+   
+        |Teams         |       
+        |--------------|        
+        |Chennai Super Kings|       
+        |Delhi Capitals|       
+        |Gujarat Titans|   
+        |Kolkata Knight Riders|   
+        |Lucknow Super Giants|   
+        |Punjab Kings|   
+        |Rajasthan Royals|
+        |Royal Challengers Bangalore|
+        |Sunrisers Hyderabad|
+   * Write the Full name of the Team - 
+        |:white_check_mark:|:x:|    
+        |--------------|--------------|        
+        |Chennai Super Kings|CSK,Csk,csk,etc.|      
+        |Kolkata Knight Riders |KKR,kkr,etc.| 
+   * Capitalize the first Letter of each word - 
+        |:white_check_mark:|:x:|    
+        |--------------|--------------|        
+        |Chennai Super Kings|Chennai super kings, chennai super kings,etc.|      
+        |Kolkata Knight Riders |kolkata knight riders, kolkata Knight riders,etc.| 
+       
    * There have been only 31 host cities in IPL(between 2008 and 2022):
       - Abu Dhabi
       - Ahmedabad
