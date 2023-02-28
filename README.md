@@ -11,22 +11,40 @@ The objective of this project is to predict the winning probabilities of the pla
 
 #### Correct Way to Input the Text data: 
 1. Batting Team / Bowling Team - 
-    * There are only 10 teams in IPL(as of 2023):
-         - Chennai Super Kings
-         - Delhi Capitals
-         - Gujarat Titans
-         - Kolkata Knight Riders
-         - Lucknow Super Giants
-         - Mumbai Indians
-         - Punjab Kings
-         - Rajasthan Royals
-         - Royal Challengers Bangalore
-         - Sunrisers Hyderabad
-    * Write the Full name of the Team - Kolkata Knight Riders :white_check_mark:  ||  KKR :x:  ||  kkr :x:
-    * Capitalize the first Letter of each word - Kolkata Knight Riders :white_check_mark:  ||  kolkata Knight riders :x:  ||  kolkata knight riders :x:
-2. Host City - 
-    * Write the name of the City only and not the name of the venue/stadium - Kolkata :white_check_mark:  ||  Eden Gardens, Kolkata :x:
-    * Capitalize the first Letter of Host City name - Kolkata :white_check_mark:  ||  kolkata :x:
+   * There are only 10 teams in IPL(as of 2023):
+      - Chennai Super Kings
+      - Delhi Capitals
+      - Gujarat Titans
+      - Kolkata Knight Riders
+      - Lucknow Super Giants
+      - Mumbai Indians
+      - Punjab Kings
+      - Rajasthan Royals
+      - Royal Challengers Bangalore         
+      - Sunrisers Hyderabad
+   * Write the Full name of the Team - Kolkata Knight Riders :white_check_mark:  ||  KKR :x:  ||  kkr :x:
+   * Capitalize the first Letter of each word - Kolkata Knight Riders :white_check_mark:  ||  kolkata Knight riders :x:  ||  kolkata knight riders :x:
+2. Host City -
+   * There are only 10 teams in IPL(as of 2023):
+      - Chennai Super Kings
+      - Delhi Capitals
+      - Gujarat Titans
+      - Kolkata Knight Riders
+      - Lucknow Super Giants
+      - Mumbai Indians
+      - Punjab Kings
+      - Rajasthan Royals
+      - Royal Challengers Bangalore         
+      - Sunrisers Hyderabad
+'Delhi', 'Ranchi', 'Mumbai', 'Hyderabad', 'Kolkata', 'Dubai',
+       'Bangalore', 'Chennai', 'Cuttack', 'Navi Mumbai', 'Durban',
+       'Ahmedabad', 'Cape Town', 'Chandigarh', 'Abu Dhabi', 'Pune',
+       'Jaipur', 'Visakhapatnam', 'Centurion', 'Raipur', 'Bloemfontein',
+       'Sharjah', 'Kanpur', 'Nagpur', 'Bengaluru', 'Port Elizabeth',
+       'Johannesburg', 'Kimberley', 'Dharamsala', 'Rajkot', 'Indore',
+       'East London
+   * Write the name of the City only and not the name of the venue/stadium - Kolkata :white_check_mark:  ||  Eden Gardens, Kolkata :x:
+   * Capitalize the first Letter of Host City name - Kolkata :white_check_mark:  ||  kolkata :x:
 
 ### Check out the website here:
 
