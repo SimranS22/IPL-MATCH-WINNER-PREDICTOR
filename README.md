@@ -26,23 +26,32 @@ The objective of this project is to predict the winning probabilities of the pla
    * Capitalize the first Letter of each word - Kolkata Knight Riders :white_check_mark:  ||  kolkata Knight riders :x:  ||  kolkata knight riders :x:
 2. Host City -
    * There are only 10 teams in IPL(as of 2023):
-      - Chennai Super Kings
-      - Delhi Capitals
-      - Gujarat Titans
-      - Kolkata Knight Riders
-      - Lucknow Super Giants
-      - Mumbai Indians
-      - Punjab Kings
-      - Rajasthan Royals
-      - Royal Challengers Bangalore         
-      - Sunrisers Hyderabad
-'Delhi', 'Ranchi', 'Mumbai', 'Hyderabad', 'Kolkata', 'Dubai',
-       'Bangalore', 'Chennai', 'Cuttack', 'Navi Mumbai', 'Durban',
-       'Ahmedabad', 'Cape Town', 'Chandigarh', 'Abu Dhabi', 'Pune',
-       'Jaipur', 'Visakhapatnam', 'Centurion', 'Raipur', 'Bloemfontein',
-       'Sharjah', 'Kanpur', 'Nagpur', 'Bengaluru', 'Port Elizabeth',
+      - Abu Dhabi
+      - Ahmedabad
+      - Bengaluru
+      - Bloemfontein
+      - Cape Town
+      - Chandigarh
+      - Chennai
+      - Cuttack
+      - Delhi
+      - Dubai
+      - Durban
+      - East London
+      - Jaipur
+      - Mumbai       
+      - Navi Mumbai
+      - Pune
+      
+      
+      
+'', 'Ranchi', '', 'Hyderabad', 'Kolkata', '',
+       '', '', '', '', '',
+       '', '', '', '', ',
+       '', 'Visakhapatnam', 'Centurion', 'Raipur', '',
+       'Sharjah', 'Kanpur', 'Nagpur', '', 'Port Elizabeth',
        'Johannesburg', 'Kimberley', 'Dharamsala', 'Rajkot', 'Indore',
-       'East London
+       '
    * Write the name of the City only and not the name of the venue/stadium - Kolkata :white_check_mark:  ||  Eden Gardens, Kolkata :x:
    * Capitalize the first Letter of Host City name - Kolkata :white_check_mark:  ||  kolkata :x:
 
