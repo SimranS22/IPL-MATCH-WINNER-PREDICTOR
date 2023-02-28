@@ -44,38 +44,48 @@ This website is hosted on replit.
         |Kolkata Knight Riders |kolkata knight riders, kolkata Knight riders,etc.| 
        
    * There have been only 31 host cities in IPL(between 2008 and 2022):
-      - Abu Dhabi
-      - Ahmedabad
-      - Bengaluru
-      - Bloemfontein
-      - Cape Town
-      - Centurion
-      - Chandigarh
-      - Chennai
-      - Cuttack
-      - Delhi
-      - Dharamshala
-      - Dubai
-      - Durban
-      - East London
-      - Hyderabad
-      - Indore
-      - Jaipur
-      - Johannesburg
-      - Kanpur
-      - Kimberley
-      - Kolkata
-      - Mumbai     
-      - Nagpur
-      - Navi Mumbai
-      - Port Elizabeth
-      - Pune
-      - Raipur
-      - Rajkot
-      - Ranchi
-      - Sharjah
-      - Visakhapatnam
-   * Write the name of the City only and not the name of the venue/stadium - Kolkata :white_check_mark:  ||  Eden Gardens, Kolkata :x:
-   * Capitalize the first Letter of Host City name - Kolkata :white_check_mark:  ||  kolkata :x:
-
+        |Host Cities    |       
+        |--------------|
+        |Abu Dhabi|
+        |Ahmedabad|
+        |Bengaluru|
+        |Bloemfontein|
+        |Cape Town|
+        |Centurion|
+        |Chandigarh|
+        |Chennai|
+        |Cuttack|
+        |Delhi|
+        |Dharamshala|
+        |Dubai|
+        |Durban|
+        |East London|
+        |Hyderabad|
+        |Indore|
+        |Jaipur|
+        |Johannesburg|
+        |Kanpur|
+        |Kimberley|
+        |Kolkata|
+        |Mumbai|
+        |Nagpur|
+        |Navi Mumbai|
+        |Port Elizabeth|
+        |Pune|
+        |Raipur|
+        |Rajkot|
+        |Ranchi|
+        |Sharjah|
+        |Visakhapatnam|
+   
+      
+   * Write the name of the City only and not the name of the venue/stadium - 
+        |:white_check_mark:|:x:|    
+        |--------------|--------------|        
+        |Kolkata |Eden Gardens Kolkata| 
+    
+   * Capitalize the first Letter of Host City name - 
+        |:white_check_mark:|:x:|    
+        |--------------|--------------|        
+        |Chennai|chennai|      
 
