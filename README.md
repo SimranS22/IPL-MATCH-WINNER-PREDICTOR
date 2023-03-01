@@ -44,41 +44,20 @@ This website is hosted on replit.
         |Kolkata Knight Riders |kolkata knight riders, kolkata Knight riders,etc.| 
 
 **2. Host City -**
-   * **There have been only 31 host cities in IPL(between 2008 and 2022):**
-        |Host Cities    |       
-        |--------------|
-        |Abu Dhabi|
-        |Ahmedabad|
-        |Bengaluru|
-        |Bloemfontein|
-        |Cape Town|
-        |Centurion|
-        |Chandigarh|
-        |Chennai|
-        |Cuttack|
-        |Delhi|
-        |Dharamshala|
-        |Dubai|
-        |Durban|
-        |East London|
-        |Hyderabad|
-        |Indore|
-        |Jaipur|
-        |Johannesburg|
-        |Kanpur|
-        |Kimberley|
-        |Kolkata|
-        |Mumbai|
-        |Nagpur|
-        |Navi Mumbai|
-        |Port Elizabeth|
-        |Pune|
-        |Raipur|
-        |Rajkot|
-        |Ranchi|
-        |Sharjah|
-        |Visakhapatnam|
-   
+   * **There have been only 31 host cities in IPL(as of 2022):**
+        |Host Cities|Host Cities|Host Cities|     
+        |--------------|--------------|--------------|
+        |Abu Dhabi|Dubai|Nagpur|
+        |Ahmedabad|Durban|Navi Mumbai|
+        |Bengaluru|East London|Port Elizabeth|
+        |Bloemfontein|Hyderabad|Pune|
+        |Cape Town|Indore|Raipur|
+        |Centurion|Jaipur|Rajkot|
+        |Chandigarh|Johannesburg|Ranchi|
+        |Chennai|Kanpur|Sharjah|
+        |Cuttack|Kimberley|Visakhapatnam|
+        |Delhi|Kolkata||
+        |Dharamshala|Mumbai||
       
    * **Write the name of the City only and not the name of the venue/stadium -** 
         |:white_check_mark:|:x:|    
