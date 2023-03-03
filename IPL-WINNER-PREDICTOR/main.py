@@ -70,11 +70,11 @@ def home():
       'runs_left': [runs_left],
       'balls_left': [balls_left],
       'wickets': [wickets],
-      'total_run_x': [int(target)],
+      'target': [int(target)],
       'current_run_rate': [crr],
       'required_run_rate': [rrr]
     })
-
+    # total_run_x =target
     result = model.predict_proba(input_df)
     bowlp = round(float(result[0][0] * 100), 1)
     batp = round(float(result[0][1] * 100), 1)
