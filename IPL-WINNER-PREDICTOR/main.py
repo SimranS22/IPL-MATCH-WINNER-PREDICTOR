@@ -30,19 +30,26 @@ def home():
   #by bowlp we mean probabilty of bowling team
   #by batp we mean probability of batting team
 
-  if (int(overs) == 20) or (int(wickets) == 10):
+  if (int(target) < int(score)):
+        bowlp = 0.00
+        batp = 100.00
+        return render_template('res.html',
+                               databowl=bowlp,
+                               databat=batp,
+                               batteam=BattingTeam,
+                               bowlteam=BowlingTeam)
+  elif(int(overs) == 20) or (int(wickets) == 10):
     if (int(target) > int(score)):
-      bowlp = 100
-      batp = 0
+      bowlp = 100.00
+      batp = 0.00
       return render_template('res.html',
                              databowl=bowlp,
                              databat=batp,
                              batteam=BattingTeam,
                              bowlteam=BowlingTeam)
     else:
-      if (int(target) < int(score)):
-        bowlp = 0
-        batp = 100
+        bowlp = 0.00
+        batp = 100.00
         return render_template('res.html',
                                databowl=bowlp,
                                databat=batp,
@@ -69,8 +76,8 @@ def home():
     })
 
     result = model.predict_proba(input_df)
-    bowlp = round(result[0][0] * 100)
-    batp = round(result[0][1] * 100)
+    bowlp = round(float(result[0][0] * 100), 2)
+    batp = round(float(result[0][1] * 100), 2)
     return render_template('res.html',
                            databowl=bowlp,
                            databat=batp,
