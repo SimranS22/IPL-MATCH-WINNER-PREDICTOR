@@ -11,7 +11,7 @@ The objective of this project is to predict the winning probabilities of the pla
 
 ### Check out the website here:
 
-https://ipl-winner-predictor.simrans22.repl.co/
+https://425c442e-dccf-42d2-90d2-4609a9c6c3f8-00-wmvuyi2wmcqo.kirk.replit.dev/
 
 This website is hosted on replit.
 
